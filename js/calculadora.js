@@ -46,7 +46,7 @@ function calcular() {
   
       lin.prepend(btn);
     }
-  
+    
   const btnMais = createNumber("+");
   const btnMenos = createNumber("-");
   const btnVezes = createNumber("*");
